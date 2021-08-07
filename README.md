@@ -1,2 +1,3 @@
 # Ant Colony Optimizer
-implementation of ant colony optimization to solve travelling salesman problem
+
+Implementation of ant colony optimization to solve travelling salesman problem
